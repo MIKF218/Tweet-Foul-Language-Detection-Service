@@ -245,14 +245,3 @@ docker stop tweet-api                  # Stop
 - [ ] Docker build succeeds (optional)
 
 ---
-
-## 📞 Support
-
-For issues:
-1. Check troubleshooting table
-2. Verify all model files exist
-3. Check logs: `docker logs tweet-api`
-
----
-
-**Built with 96.65% F1 Score | Production-Ready | Fully Tested**
